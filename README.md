@@ -152,14 +152,6 @@ Add your project images inside the `images` folder and display them using:
 
 ---
 
-## 👨‍💻 Author
-
-**Soham Patil**
-
-- LinkedIn: www.linkedin.com/in/soham-patil-52b7ab28b
-- GitHub: https://github.com/soham111111
-
----
 
 ## 📄 License
 
